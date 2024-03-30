@@ -13,6 +13,7 @@ Desktop: 992px até 1200
     }
     section#login {
         width: 80vw;
+        height: 280px;
     }
 
     section#login > div#imagem {
@@ -33,11 +34,8 @@ Desktop: 992px até 1200
         background-image: linear-gradient(to top, #49a09d, #5f2c82);
     }
     section#login {
-        width: 80vw;
-    }
-
-    section#login {
         width: 950px;
+        height: 350px;
     }
 
     section#login > div#imagem {
@@ -55,6 +53,7 @@ Desktop: 992px até 1200
         font-size: 2em;
     }
     div#formulario > p {
-        font-size: 1.2em;
+        font-size: 1em;
+        margin: 20px 0px;
     }
 }
